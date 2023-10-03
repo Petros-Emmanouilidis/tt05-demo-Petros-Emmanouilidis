@@ -1,6 +1,6 @@
 `default_nettype none
 
-module ALU 
+module tt_um_Petros-Emmanouilidis-example 
     (input  logic clock,
      input  logic reset_L,
      input  logic [1:0] operation,
