@@ -25,4 +25,4 @@ module tt_um_Petros-Emmanouilidis-example
         
     end
 
-endmodule: ALU
+endmodule: tt_um_Petros-Emmanouilidis-example 
